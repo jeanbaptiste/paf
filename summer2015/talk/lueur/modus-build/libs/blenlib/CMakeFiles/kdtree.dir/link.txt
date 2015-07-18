@@ -1,0 +1,1 @@
+/usr/bin/gcc   -DHAVE_GLEXT -g -Wall    CMakeFiles/kdtree.dir/kdtree.c.o  -o kdtree -rdynamic blenlib/libblenlib.a guardedalloc/libguardedalloc.a -lm 

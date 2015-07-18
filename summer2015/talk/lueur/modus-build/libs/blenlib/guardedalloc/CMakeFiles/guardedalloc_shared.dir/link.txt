@@ -1,0 +1,1 @@
+/usr/bin/gcc  -fPIC  -DHAVE_GLEXT -g -Wall   -shared -Wl,-soname,libguardedalloc_shared.so -o libguardedalloc_shared.so CMakeFiles/guardedalloc_shared.dir/intern/mallocn.c.o 

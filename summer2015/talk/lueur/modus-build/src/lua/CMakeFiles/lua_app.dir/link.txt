@@ -1,0 +1,1 @@
+/usr/bin/gcc  -fPIC    -shared -Wl,-soname,liblua_app.so -o liblua_app.so CMakeFiles/lua_app.dir/mn_lua.c.o CMakeFiles/lua_app.dir/lua_editor.c.o CMakeFiles/lua_app.dir/lua_minuit.c.o 

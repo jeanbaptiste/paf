@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/x/Bureau/SOURCES/MINUIT/modus/../minuit/src/app/app.h
+common.h
+/home/x/Bureau/SOURCES/MINUIT/modus/../minuit/src/app/common.h
+
+/home/x/Bureau/SOURCES/MINUIT/modus/../minuit/src/base/common.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+math.h
+-
+ctype.h
+-
+
+/home/x/Bureau/SOURCES/MINUIT/modus/../minuit/src/ctx/ctx.h
+common.h
+/home/x/Bureau/SOURCES/MINUIT/modus/../minuit/src/ctx/common.h
+
+/home/x/Bureau/SOURCES/MINUIT/modus/src/modus.c
+ctx.h
+/home/x/Bureau/SOURCES/MINUIT/modus/src/ctx.h
+app.h
+/home/x/Bureau/SOURCES/MINUIT/modus/src/app.h
+modus.h
+/home/x/Bureau/SOURCES/MINUIT/modus/src/modus.h
+xui.h
+/home/x/Bureau/SOURCES/MINUIT/modus/src/xui.h
+
+/home/x/Bureau/SOURCES/MINUIT/modus/src/modus.h
+
