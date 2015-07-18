@@ -1,2 +1,0 @@
-/usr/bin/ar cr libmodus.a  CMakeFiles/modus.dir/modus_init.c.o CMakeFiles/modus.dir/mod_keyboard.c.o
-/usr/bin/ranlib libmodus.a

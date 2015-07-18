@@ -1,1 +1,0 @@
-/usr/bin/gcc  -fPIC  -DHAVE_GLEXT -g -Wall   -shared -Wl,-soname,mat3.so -o mat3.so CMakeFiles/mat3.dir/stdmath_mat3_lua.c.o libstdutil.so 

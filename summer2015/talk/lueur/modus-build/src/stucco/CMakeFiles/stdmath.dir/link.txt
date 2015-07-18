@@ -1,1 +1,0 @@
-/usr/bin/gcc  -fPIC  -DHAVE_GLEXT -g -Wall   -shared -Wl,-soname,stdmath.so -o stdmath.so CMakeFiles/stdmath.dir/stdmath_lua.c.o libstdutil.so 

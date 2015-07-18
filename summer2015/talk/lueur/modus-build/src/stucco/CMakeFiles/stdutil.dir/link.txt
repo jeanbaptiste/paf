@@ -1,1 +1,0 @@
-/usr/bin/gcc  -fPIC  -DHAVE_GLEXT -g -Wall   -shared -Wl,-soname,libstdutil.so -o libstdutil.so CMakeFiles/stdutil.dir/stash.c.o CMakeFiles/stdutil.dir/llist.c.o CMakeFiles/stdutil.dir/stdmath.c.o CMakeFiles/stdutil.dir/stdvec.c.o CMakeFiles/stdutil.dir/stdmath_mat3_lua.c.o CMakeFiles/stdutil.dir/stdmath_mat4_lua.c.o 

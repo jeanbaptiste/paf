@@ -1,1 +1,0 @@
-/usr/bin/gcc  -fPIC  -DHAVE_GLEXT -g -Wall   -shared -Wl,-soname,stucco.so -o stucco.so CMakeFiles/lua_stucco_shared.dir/stucco_lua.c.o /home/x/Bureau/SOURCES/LUA/lua/src/liblua.so libstucco.so libstdutil.so 

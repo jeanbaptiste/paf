@@ -1,1 +1,0 @@
-/usr/bin/gcc  -fPIC  -DHAVE_GLEXT -g -Wall   -shared -Wl,-soname,mat4.so -o mat4.so CMakeFiles/mat4.dir/stdmath_mat4_lua.c.o libstdutil.so libstdutil.so ../../libs/blenlib/blenlib/libblenlib_shared.so ../../libs/blenlib/guardedalloc/libguardedalloc_shared.so 

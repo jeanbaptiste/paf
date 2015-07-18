@@ -1,2 +1,0 @@
-/usr/bin/ar cr libmn_lua.a  CMakeFiles/mn_lua.dir/mn_lua.c.o CMakeFiles/mn_lua.dir/lua_editor.c.o CMakeFiles/mn_lua.dir/lua_minuit.c.o
-/usr/bin/ranlib libmn_lua.a
