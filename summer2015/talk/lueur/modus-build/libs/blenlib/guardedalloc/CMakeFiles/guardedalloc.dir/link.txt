@@ -1,2 +1,0 @@
-/usr/bin/ar cr libguardedalloc.a  CMakeFiles/guardedalloc.dir/intern/mallocn.c.o
-/usr/bin/ranlib libguardedalloc.a

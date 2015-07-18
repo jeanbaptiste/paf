@@ -1,2 +1,0 @@
-/usr/bin/ar cr libblenlib.a  CMakeFiles/blenlib.dir/intern/BLI_kdtree.c.o CMakeFiles/blenlib.dir/intern/math_base.c.o CMakeFiles/blenlib.dir/intern/math_base_inline.c.o CMakeFiles/blenlib.dir/intern/math_geom.c.o CMakeFiles/blenlib.dir/intern/math_matrix.c.o CMakeFiles/blenlib.dir/intern/math_rotation.c.o CMakeFiles/blenlib.dir/intern/math_vector.c.o CMakeFiles/blenlib.dir/intern/math_vector_inline.c.o
-/usr/bin/ranlib libblenlib.a
