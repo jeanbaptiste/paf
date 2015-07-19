@@ -1,10 +1,13 @@
--- Morphogenesis of the Outside *************************
--- Outside OF:
--- 1. human universe -> metaphysics
--- 2. a sheet of paper -> topology
--- 3. masculine rational advantage -> xenology
--- 4. verbal language -> iconic & enactive expression
--- 5. cryptopolitical power -> supranatural propitiatory talent
+-- MOTO ::: Morphogenesis of the Outside ////////////////
+—-
+-- outside OF:
+-- 1. void -> tohu-bohu
+-- 2. universe -> metaphysics
+-- 3. a sheet of paper -> diffeomorphisms
+-- 4. cybernetics -> self-referential cybernetics
+-- 5. masculine rational advantage -> xenology
+-- 6. verbal language -> iconic & enactive expression
+-- 7. cryptopolitical power -> supranatural propitiatory talent
 --
 -- - - - - - - - - - - ----------------------------------
 -- crypto capitalism : talking points (elts de language), autocompletion 
@@ -17,9 +20,14 @@
 -- stratégies transitoires
 -- masculin force féminin alliance, féminin autre, alliance avec l’autre, levinas 
 --
+<<<<<<< HEAD
 --  la fabrique du sacré
 --
 --
+=======
+-- la fabrique du sacré
+—- eufonic cavs 
+>>>>>>> 54aec4b7e05d1b22857fba32c96c9ab2229398fc
 -- - - - -
 -- ***** sounds
 --
@@ -63,10 +71,19 @@
 -- livre hamayon
 --
 --
---
---
---
---
+-- §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+-- written document
+-- §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+-- 
+-- 1. void -> tohu-bohu
+—- 		euphonia euphony euphonics
+—- 
+-- 2. universe -> metaphysics
+-- 3. a sheet of paper -> diffeomorphisms
+-- 4. cybernetics -> self-referential cybernetics
+-- 5. masculine rational advantage -> xenology
+-- 6. verbal language -> iconic & enactive expression
+-- 7. cryptopolitical power -> supranatural propitiatory talent
 --
 --
 --
