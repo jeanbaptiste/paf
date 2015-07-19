@@ -1,5 +1,4 @@
 -- MOTO ::: Morphogenesis of the Outside ////////////////
-—-
 -- outside OF:
 -- 1. void -> tohu-bohu
 -- 2. universe -> metaphysics
@@ -20,14 +19,11 @@
 -- stratégies transitoires
 -- masculin force féminin alliance, féminin autre, alliance avec l’autre, levinas 
 --
-<<<<<<< HEAD
 --  la fabrique du sacré
 --
 --
-=======
 -- la fabrique du sacré
-—- eufonic cavs 
->>>>>>> 54aec4b7e05d1b22857fba32c96c9ab2229398fc
+-- eufonic cavs 
 -- - - - -
 -- ***** sounds
 --
@@ -76,8 +72,8 @@
 -- §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 -- 
 -- 1. void -> tohu-bohu
-—- 		euphonia euphony euphonics
-—- 
+-- 		euphonia euphony euphonics
+-- 
 -- 2. universe -> metaphysics
 -- 3. a sheet of paper -> diffeomorphisms
 -- 4. cybernetics -> self-referential cybernetics
