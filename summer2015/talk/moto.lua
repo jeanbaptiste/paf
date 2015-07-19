@@ -17,6 +17,8 @@
 -- stratégies transitoires
 -- masculin force féminin alliance, féminin autre, alliance avec l’autre, levinas 
 --
+--  la fabrique du sacré
+--
 --
 -- - - - -
 -- ***** sounds
