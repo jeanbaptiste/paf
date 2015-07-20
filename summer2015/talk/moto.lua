@@ -1,10 +1,13 @@
--- Morphogenesis of the Outside *************************
--- Outside OF:
--- 1. human universe -> metaphysics
--- 2. a sheet of paper -> topology
--- 3. masculine rational advantage -> xenology
--- 4. verbal language -> iconic & enactive expression
--- 5. cryptopolitical power -> supranatural propitiatory talent
+-- MOTO ::: Morphogenesis of the Outside ////////////////
+—-
+-- outside OF:
+-- 1. void -> tohu-bohu
+-- 2. universe -> metaphysics
+-- 3. a sheet of paper -> diffeomorphisms
+-- 4. cybernetics -> self-referential cybernetics
+-- 5. masculine rational advantage -> xenology
+-- 6. verbal language -> iconic & enactive expression
+-- 7. cryptopolitical power -> supranatural propitiatory talent
 --
 -- - - - - - - - - - - ----------------------------------
 -- crypto capitalism : talking points (elts de language), autocompletion 
