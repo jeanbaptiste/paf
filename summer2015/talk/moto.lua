@@ -20,7 +20,8 @@
 -- stratégies transitoires
 -- masculin force féminin alliance, féminin autre, alliance avec l’autre, levinas 
 --
---
+-- la fabrique du sacré
+—- eufonic cavs 
 -- - - - -
 -- ***** sounds
 --
@@ -64,10 +65,19 @@
 -- livre hamayon
 --
 --
---
---
---
---
+-- §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+-- written document
+-- §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+-- 
+-- 1. void -> tohu-bohu
+—- 		euphonia euphony euphonics
+—- 
+-- 2. universe -> metaphysics
+-- 3. a sheet of paper -> diffeomorphisms
+-- 4. cybernetics -> self-referential cybernetics
+-- 5. masculine rational advantage -> xenology
+-- 6. verbal language -> iconic & enactive expression
+-- 7. cryptopolitical power -> supranatural propitiatory talent
 --
 --
 --
