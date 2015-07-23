@@ -382,7 +382,12 @@ michel pastoureau OURS / LION / RENARD
 vera chytilova
 Unmoralische Geschichten
 http://www.bildstoerung.tv/blog/filme/la-bete-die-bestie/
-editions dehors la pommeraie lien URL
+editions dehors la pommeraie lien URL http://www.lapommerie.org/nouvellepommerie/NL-0528-rencontres/programme_rae_2015.pdf ******for an art of consequences****** *eli kongs*
+CONNECT *Bertrand Prevost* Philosopher. Cosmique cosmétique. Pour une cosmologie de la parure. Cosmical Cosmetics: For a Cosmology of Adornment http://imagesrevues.revues.org/2181 names names namezzzz *adolphe portmann* Georg Simmel, G. Deleuze et F. Guattari, R. Caillois, Ernst Gombrich, Tertullian, Marcel Mausssssssssss, Marcel Mars, Nenad Romic chhhhhhhhhh ch ch chhhhhhhhhh 
+camouflage is between individual and milieu when mimicry is the relation between the different species
+sexual dimorphism, sexual homeomorphism, sexual diffeomorphism
+appearance, apparence, self presentation, selbstdarstellung, expressive appearance, expressive form, something in the form that is expressive, not the form: appearance is a vital function, visibility, audibility, …. expression, non adressed non adressed presentation. a show before there is the existence of a viewer. There is true appearance in a larger field than the interplay of morphological and sensory organs of higher animals
+bergson read by deleuze mixed with spinoza:: plane of light, things are images in themselves, matter and memory, bergson: fiction of the world entirely made of images, images for no one. How can we talk about an image without an eye ? not yet an eye. Plane of immanence is light. The light is not yet reflected and still propagating, never revealed. Notion of non-revealed light. Onto theology, revelation, revelation of the light, lux erat. Nor divine, nor physical for DELEUZE; the light must not precedes the phenomenon. The light is not longer a condition of physical visibility. The light from the appearance. Short Circuit of the Kantian opposition of the opposition of the noumenon and phenomenon. It does not help. absolutely not sensitive access to the object, purely intellectual. the thing in itself, noumenon, an object,………………………………………………………………………………………………………………………………………………………………………………… very absolute objectivity of a thing in itself…………………………………………………………………………………………. remain prisoners of the subject object dimensions
 
 lokiS
 mérimée
@@ -431,7 +436,7 @@ two faces
 fold, cut
 self-similarity, scale-invariance, contains in itself
 2D to 3D to nD
-morphogenesis
+morphogenesis, dynamic gestaltung
 neurulation, gastrulation
 embryology, epigenesis
 recursive epigenesis of milieu, umgebung, umwelt
@@ -452,7 +457,7 @@ inverting itself from itself
 neither imploding nor exploding but self-conforming
 self, antiself, extended self, streched self, selfism, selfist, selfitude, servitude, selfology, selfanalogue, ipseity, alteripseity, alterego, collectivego, collectiveself, co co co co co collective body wi wi wi without a s s sssss sssssellllffffff 
 
-*sonia sanchez* where is your fire? c cccc ccccatch the fire (Sometimes I wonder:
+CONNECT *sonia sanchez* where is your fire? c cccc ccccatch the fire (Sometimes I wonder:
 
 What to say to you now
 in the soft afternoon air as you
@@ -516,8 +521,8 @@ livelivelive.
 live.
 live.
 
-bachelard psychoanalysis of fire
-did norbert wiener read, met, befriended bachelard ?????
+INVOCATE *Gaston Bachelard* psychoanalysis of fire
+did INVOCATE *norbert wiener* read, met, befriended bachelard ?????
 
 4. cybernetics -> self-referential cybernetics
 	cybernetics, art of steering
@@ -525,6 +530,8 @@ did norbert wiener read, met, befriended bachelard ?????
 5. masculine rational advantage -> xenology
 Roberte Hamayon - playing
 advantage of masculinity in buriate and tunguse early shamanism (period????
+oripeaux, attributs, parure, costume, unperfect masks, attirail, apparatus of the shaman
+make-believe and faire-semblant, metaphorization as the basis of connecting with the Other
 xenology, logics, discourse, study of the otherness of the other
 levinas
 cryptophilosophy
@@ -533,7 +540,7 @@ religere
 words hidden in words
 cryptowords
 cryptoworlds
-cryptocurrency, blockchain, faircoin, hidden third-term (tiers terme) *jean lassègue*
+cryptocurrency, blockchain, faircoin, hidden third-term (tiers terme) CONNECT *jean lassègue*
 
 6. verbal language -> iconic & enactive expression
 formants
