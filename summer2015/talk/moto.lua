@@ -533,6 +533,7 @@ religere
 words hidden in words
 cryptowords
 cryptoworlds
+cryptocurrency, blockchain, faircoin, hidden third-term (tiers terme) *jean lassègue*
 
 6. verbal language -> iconic & enactive expression
 formants
