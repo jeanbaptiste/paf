@@ -541,7 +541,7 @@ semiotic lips
 INVOCATE *charles sander peirce*
 INVOCATE *jerome bruner* 
 
-7. cryptopolitical power -> supranatural propitiatory talent
+7. crypto-political power -> supranatural propitiatory talent
 crypto-capitalism
 neoliberal refactoring of verbal and written language
 double layer of discourse
