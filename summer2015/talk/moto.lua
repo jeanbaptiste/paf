@@ -404,13 +404,151 @@ written document
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 1. void -> tohu-bohu
- 		euphonia euphony euphonics 
+euphonia
+euphony 
+euphonics 
+resonance feedback
+accretion
+fourier transform
+Fast Fourier Transform FFT
+Hyper Fast Fourier Transform
+FTS Faster than sound 
+FTL Faster Than Light 
+Accelerationism
+Expansionism funnel of speculative accelerationism
+
 2. universe -> metaphysics
+man
+earth
+cosmos,
+universe, limited size of the universe. 
+Meillassoux contingency
+meta as transcendence 
+
 3. a sheet of paper -> diffeomorphisms
+close unit
+two faces
+fold, cut
+self-similarity, scale-invariance, contains in itself
+2D to 3D to nD
+morphogenesis
+neurulation, gastrulation
+embryology, epigenesis
+recursive epigenesis of milieu, umgebung, umwelt
+von huexkull
+augustin berque mesology
+regis debray mediology
+recursive milieu
+mi-lieu of the milieu
+cut / in the sheet of paper
+transcendatal immanence 
+ininite sides of the sheet of paper
+conforming
+confolding
+conforging the sheet onto its belly
+convoluting your*self from my*self
+3D to 4D, hypercube, tesseract
+inverting itself from itself
+neither imploding nor exploding but self-conforming
+self, antiself, extended self, streched self, selfism, selfist, selfitude, servitude, selfology, selfanalogue, ipseity, alteripseity, alterego, collectivego, collectiveself, co co co co co collective body wi wi wi without a s s sssss sssssellllffffff 
+
+*sonia sanchez* where is your fire? c cccc ccccatch the fire (Sometimes I wonder:
+
+What to say to you now
+in the soft afternoon air as you
+hold us all in a single death?)
+I say—
+Where is your fire?
+I say—
+Where is your fire?
+
+You got to find it and pass it on.
+You got to find it and pass it on
+from you to me from me to her from her
+to him from the son to the father from the
+brother to the sister from the daughter to
+the mother from the mother to the child.
+
+Where is your fire?  I say where is your fire?
+Can’t you smell it coming out of our past?
+The fire of living…not dying
+The fire of loving…not killing
+The fire of Blackness…not gangster shadows.
+Where is our beautiful fire that gave light
+to the world?
+The fire of pyramids;
+The fire that burned through the holes of
+slaveships and made us breathe;
+
+The fire that made guts into chitterlings;
+The fire that took rhythms and made jazz;
+
+The fire of sit-ins and marches that made
+us jump boundaries and barriers;
+The fire that took street talk sounds
+and made righteous imhotep raps.
+Where is your fire, the torch of life
+full of Nzingha and Nat Turner and Garvey
+and DuBois and Fannie Lou Hamer and Martin
+and Malcolm and Mandela.
+Sister/Sistah  Brother/Brotha  Come/Come
+
+CATCH YOUR FIRE…DON’T KILL
+HOLD YOUR FIRE…DON’T KILL
+LEARN YOUR FIRE…DON’T KILL
+BE THE FIRE…DON’T KILL
+Catch the fire and burn with eyes
+that see our souls:
+WALKING.
+SINGING.
+BUILDING.
+LAUGHING.
+LEARNING.
+LOVING.
+TEACHING.
+BEING.
+Hey.  Brother/Brotha.  Sister/Sista.
+Here is my hand.
+Catch the fire…and live.
+live.
+livelivelive.
+livelivelive.
+live.
+live.
+
+bachelard psychoanalysis of fire
+did norbert wiener read, met, befriended bachelard ?????
+
 4. cybernetics -> self-referential cybernetics
+	cybernetics, art of steering
+
 5. masculine rational advantage -> xenology
+Roberte Hamayon - playing
+advantage of masculinity in buriate and tunguse early shamanism (period????
+xenology, logics, discourse, study of the otherness of the other
+levinas
+cryptophilosophy
+religion
+religere
+words hidden in words
+cryptowords
+cryptoworlds
+
 6. verbal language -> iconic & enactive expression
+formants
+phatic
+semiotic lips 
+INVOCATE *charles sander peirce*
+INVOCATE *jerome bruner* 
+
 7. cryptopolitical power -> supranatural propitiatory talent
+crypto-capitalism
+neoliberal refactoring of verbal and written language
+double layer of discourse
+talking points (elts de language)
+autocompletion (phones, GOOG)
+deconstruction of language vs advertising retargeting (CRITEO)
+playing with neoliberal antipoetry (marten spangberg at Palais de Tokyo
 
 ]]--
 
