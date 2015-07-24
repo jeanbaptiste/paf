@@ -529,8 +529,8 @@ did INVOCATE *norbert wiener* read, met, befriended bachelard ?????
 
 5. masculine rational advantage -> xenology
 Roberte Hamayon - playing
-advantage of masculinity in buriate and tunguse early shamanism (period????
-oripeaux, attributs, parure, costume, unperfect masks, attirail, apparatus of the shaman
+advantage of masculinity in buriate and tungus early shamanism (period????
+oripeaux, attributs, parure, costume, unperfect masks, attirail, paraphernalia, apparatus of the shaman
 make-believe and faire-semblant, metaphorization as the basis of connecting with the Other
 xenology, logics, discourse, study of the otherness of the other
 levinas
