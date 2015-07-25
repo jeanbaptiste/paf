@@ -1,7 +1,7 @@
 
 --
-local S = require "stucco"
-local obj = S.new("a")
+-- local S = require "stucco"
+local obj = stone.new("a")
 
 
 local Letters = 
@@ -241,11 +241,12 @@ local Letters =
 
 
 local Typo = {}
+-- object is a stone object to store stuff
 Typo.object = nil
 
 function Typo:init()
 	print("init")	
-	self.object = S.new("a")
+	self.object = stone.new("a")
 end
 
 function Typo:build_letter(letter)
@@ -298,16 +299,45 @@ function Typo:new()
 	return setmetatable({object=nil},Typo)	
 end
 
+function Typo:word(word)
+	local px, py, pz = 0, 0, 0
+	for i = 1 , #word do
+		Typo:print(word:sub(i,i),px,py,pz)
+		px = px + 1.2
+	end
+end
+
 local test = Typo:new()
-test:print("a",0,0,1/time())
-test:print("b",1.5,0,1/time())
-test:print("c",3,0,1/time())
+test:word("caca")
+
+-- test:print("a",0,0,1/time())
+-- test:print("b",1.5,0,1/time())
+-- test:print("c",3,0,1/time())
 
 -- local a = obj.add_vertex(obj,0,0,0)
 -- local b = obj:add_vertex(1,0,0)
 -- local edge = obj:add_edge(a,b)
 
 test.object:build_object()
+
+require "math"
+
+function f(i,x,y,z)
+
+	return x * math.random()	 , y ,z
+
+end
+
+
+
+function anim()
+
+	set_mesh(test.object.id,f) 
+end
+
+
+
+every_frame(anim)
 
 ---------------------------------------------------------------------------
 
