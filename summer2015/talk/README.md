@@ -6,7 +6,7 @@
 
 ## diffeomorphism
 
-## irridescence
+## iridescence
 
 ## camouflage
 
